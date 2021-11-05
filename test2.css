@@ -1,0 +1,113 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: darkseagreen;
+   
+}
+
+
+
+
+.navbar{
+
+    height: 100px;
+    background-color: rgb(173, 173, 18);
+}
+
+
+.logo{
+
+    margin-left: 20px;
+}
+
+
+#min-page{
+
+
+    margin-top: 60px;
+    background-color: rgb(206, 30, 30);
+   
+   
+
+}
+
+  p{
+    background-color: rgb(206, 30, 30);
+   
+
+  }
+
+.h {
+    margin-top: 50px;
+   
+}
+
+
+@media (max-width:500px ){
+
+    #min-page{
+
+        width: 350px;
+        margin-left: auto ;
+        margin-right: auto;
+    }
+}
+
+@media (min-width:500px) and (max-width:575px) {
+
+    #min-page{
+
+        width: 400px;
+        margin-left: auto ;
+        margin-right: auto;
+    }
+}
+
+
+#om{
+
+   color: darkred;
+   background-color: rgb(238, 177, 65);
+}
+
+
+#omar{
+
+    background-color: rgb(214, 175, 103);
+}
+
+
+#nav-list{
+    color: darkblue;
+    background: rgb(228, 17, 17);
+    
+}
+
+li{
+
+    margin-top: 12px;
+  color: #000;
+  font-size: 30px;
+  margin-right: 12px;
+  margin-bottom: 12px;
+   
+}
+
+
+
+.i{
+
+    margin-bottom: 20px;
+}
+.container-fluid{
+
+    background-color: darkorange;
+    
+}
+
+h1{
+
+    padding: 25px;
+}
